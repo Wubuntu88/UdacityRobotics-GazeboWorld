@@ -1,0 +1,4 @@
+# used for my own desktop
+export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/Users/williamgillespie/Documents/UdacityRobotics/UdacityRobotics-GazeboWorld/build
+# for the worldspace
+export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/UdacityRobotics-GazeboWorld/build
